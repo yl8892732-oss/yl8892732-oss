@@ -1,5 +1,4 @@
 # Hi! I am Chenyu Huang :)
-**I have a theory, emmm…… it needs more data.**
 
 **AI | Computer Vision | Software Engineering**
 
@@ -16,3 +15,5 @@ I'm interested in building intelligent systems and practical AI applications.
 ## Currently Learning
 
 Machine Learning · Model Evaluation · Software Design · Video Generation
+
+ps: I have a theory, emmm…… it needs more data.
