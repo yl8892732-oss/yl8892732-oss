@@ -1,5 +1,5 @@
 # Hi! I am Chenyu Huang :)
-I have a theory, emmm…… it needs more data.
+**I have a theory, emmm…… it needs more data.**
 
 **AI | Computer Vision | Software Engineering**
 
