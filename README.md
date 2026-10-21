@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Chenyu Huang 
 
-<!--
-**yl8892732-oss/yl8892732-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI | Computer Vision | Software Engineering**
 
-Here are some ideas to get you started:
+I'm interested in building intelligent systems and practical AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+-  Interested in AI and computer vision
+-  Developing intelligent attendance systems
+-  Learning machine learning and software engineering
+- Some ideas about video generation
+
+
+## Currently Learning
+
+Machine Learning · Model Evaluation · Software Design · Video Generation
